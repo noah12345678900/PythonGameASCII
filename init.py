@@ -379,7 +379,7 @@ export default function Home() {
       
       {/* Footer */}
       <footer className="text-center py-8 text-gray-500">
-        <p>&copy; 2024 Food Animation Show. Made with ❤️ and lots of ASCII art!</p>
+        <p>&copy; 2024 Made with ❤️ and lots of ASCII art!</p>
         <p className="text-sm mt-2">Try running the animation again for maximum enjoyment!</p>
       </footer>
     </div>
